@@ -4,7 +4,7 @@ Our [weekly status blog](https://billdybas.github.io/SWEN440) for [SWEN440](http
 
 ### Group
 - Bill Dybas
-- Person 2
+- Colton Venditto
 - Person 3
 - Person 4
 
