@@ -6,7 +6,7 @@ Our [weekly status blog](https://billdybas.github.io/SWEN440) for [SWEN440](http
 - Bill Dybas
 - Colton Venditto
 - Greg Rozmarynowycz
-- Person 4
+- Steven Lavoie
 
 ## How to:
 
