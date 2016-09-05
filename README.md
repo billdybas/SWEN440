@@ -3,6 +3,7 @@
 Our [weekly status blog](https://billdybas.github.io/SWEN440) for [SWEN440](http://www.se.rit.edu/~swen-440/).
 
 ### Group
+#### Group 2
 - Bill Dybas
 - Colton Venditto
 - Greg Rozmarynowycz
